@@ -5,7 +5,7 @@ export const site = {
     photo: '/foto-dimas.jpg',
     music: '/music/lagu.mp3',
     tagline: 'Wait for a sec',
-    formKey: 'GANTI_DENGAN_ACCESS_KEY_WEB3FORMS',
+    formKey: 'c318ccfd-5238-43bd-8e48-4a7376b0e302',
   }
   
   export const socials = { github: 'https://github.com/dimsssgt/', linkedin: 'https://www.linkedin.com/in/dimas-sugiarto', instagram: 'https://www.instagram.com/dimsssgt_/' }
